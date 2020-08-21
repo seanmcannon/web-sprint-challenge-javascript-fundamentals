@@ -1,4 +1,4 @@
-# Sprint Chal lenge - JavaScript Fundamentals
+# Sprint Challenge - JavaScript Fundamentals
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
