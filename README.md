@@ -24,15 +24,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
+1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max) They both receive a function as an argument to applyu to an array. .Map returns a new Array, forEach returns a value
 
-2. Explain the difference between a callback and a higher order function.
+2. Explain the difference between a callback and a higher order function. A higher order fxn takes another fxn as arguments and returns a fxn to its callers. a Callback fxn is the fxn passed into the higher order function as a parameter.
 
-3. What is closure?
+3. What is closure? it gives access to an out fxns scope
 
 4. Describe the four rules of the 'this' keyword.
 
-5. Why do we need super() in an extended class?
+5. Is it called by new? (points to new object)
+6. Is it called by (.call .apply == explicit) or .bind (to new fxn)
+7. Is it called as a method (left of .)
+8. Is it called in global scope (window object)
+
+5) Why do we need super() in an extended class? to access and call functions on an objects parent.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
